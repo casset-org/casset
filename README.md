@@ -1,2 +1,2 @@
 # casset
-Trade of civics crypto-assets
+Trading crossassets 
